@@ -143,8 +143,7 @@ button:hover {
   margin-bottom: 20px;
 }
 
-. 
-/* Loading message styling */
+# Loading message styling */
 #loadingMessage {
   font-style: italic;
   color: #888;
